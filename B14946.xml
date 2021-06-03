@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The courant out of Italy and Germany &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14946</idno><idno type="EEBO-CITATION">99854740</idno>
+  <idno type="VID">177428</idno>
+  <idno type="EEBO-PROQUEST">2240913816</idno>
+  <idno type="STC">STC 18507.17</idno>
+  <idno type="STC">ESTC S119533</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854740e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177428)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:7s)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The courant out of Italy and Germany &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Veseler [sold by P. Keerius],</publisher>
+                  <pubPlace>At Amsterdam :</pubPlace>
+                  <date>The 18. of Septembre. 1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Parts translated from Broer Jansz's Dutch coranto published 11 September 1621--Cf. Dahl.</note>
+                  <note>Formerly STC 5745.</note>
+                  <note>Identified as STC 5745 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Bound and filmed with other issues.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:177428:1"/>
+            <head>The Courant cut of Italy and Germany &amp;c.</head>
+            <div type="account">
+               <head>From Roome the 14. August, 1621.</head>
+               <p>THe Polish orater is departed from hence with good contentment / for that the popes holines hath graunted the King of Poland assistaunce of <hi>20000.</hi> Fl. monethly / there vpon the firsts mo<g ref="char:EOLhyphen"/>net is <hi>20000.</hi> Fl. is remitted all ready.</p>
+               <p>Mons. Montorio is gone from hence to Cullon to his Nuntiator.</p>
+               <p>The Sing: Duca de Palin hath sent <hi>10000.</hi> Crownes to Germanie / there with all to ransom Sing. Torquate Corty who was taken priso<g ref="char:EOLhyphen"/>ner in Hungaria before Newheusell by Betlem Gabor.</p>
+            </div>
+            <div type="account">
+               <head>From Venise, the 20. of August.</head>
+               <p>Art Millanen are com <hi>1000.</hi> Spaniards / for to laid in Garrisson here and there in Lomber<g ref="char:EOLhyphen"/>die / and there are so many more expected / Don Cio / shoulde likewise with all expedition levie o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Regiment of souldiors / to which ende <hi>12</hi> Cap<g ref="char:EOLhyphen"/>taines are prepared and <hi>800.</hi> Cronwnes is given to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em.</p>
+               <p>The Restitution of Peltoline is wholly unser<g ref="char:EOLhyphen"/>taine / for the same places are fortified Againe / because the Switsers Ambassadours will not yealde unto such conditions as are made unto them by the Deputies of the King of Spaine and the house of Austria.</p>
+               <p>From Spaine are sent great store of siluer som few daies agone to Insbrugh for to be quoy<g ref="char:EOLhyphen"/>ned.</p>
+               <p>From Constantinople is written of the <hi>14.</hi> of this present / that many bridges were made over the Donoub, to the intent that the Otta<g ref="char:EOLhyphen"/>manisch host might more the better forwarde Againsts Poland so that a greate Company of Turkes have given themselves already unto the borders of Poland / but <hi>8000.</hi> of the same are slai<g ref="char:EOLhyphen"/>ne of the Pall<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cks who had hid them selves in an ambushment / likewise the Generall of the Cosac<g ref="char:EOLhyphen"/>kes hath sett upon <hi>15000.</hi> Tartarians which we<g ref="char:EOLhyphen"/>re merching to the Turkich Armie / and scatered them here and there.</p>
+            </div>
+            <div type="account">
+               <head>From Vienne, the 25. dito.</head>
+               <p>After that the Hungarians had burnt fom <hi>200.</hi> Castles villadges and markett townes with much growing graine / they retired back and have besieged Presburg / which then have strongly began to shoote upon withe there peeces of Or<g ref="char:EOLhyphen"/>dinaunce into the Citie and Castle of Presburg then <hi>19. 20. 21.</hi> and <hi>22.</hi> of this prenssent whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shooting they continue yett those within defend them felves lustily / and haue resolved to Stand it out constantly to the last drop of there blood / if so be they can but receive assistance from the-Emperour with souldiors and provisiō and the<g ref="char:EOLunhyphen"/>re are <hi>8000.</hi> men allreaddy which have lien here and there in Bohemia and Moravia / with many folk from Sylesia / gathered at a place called the marckt in Moravia they also goe to Presburg to help those within Against Betlem.</p>
+               <p>The Budianies folk doe likewise greate harme on this side of the Donouw with Burning and roving they are within <hi>4.</hi> or <hi>5.</hi> legines of this Cit<g ref="char:EOLhyphen"/>tie / and the inhabitans or subjects in the Country runne away for yeare. So that all Kinde of grai<g ref="char:EOLhyphen"/>ne in the fields spoiles for want of dressing / Brave Colaldo hath notwithstanding received com<g ref="char:EOLhyphen"/>maundement to march against the newstad for to hinder such roving so much as possibly he can.</p>
+               <p>And after that the Emperour hath given a ge<g ref="char:EOLhyphen"/>nerall Pardon to the Moravians / and sert a liber<g ref="char:EOLhyphen"/>tie all those which were imprisoned / they have there uppon talken in hand to levie souldiors / and are resolved to defend there land from any fur<g ref="char:EOLhyphen"/>ther assaults / more souldiors are expected from other quarters.</p>
+               <p>Captaine Becker / who was taken prisoner of the Hungarians <hi>3.</hi> weekes agone is gott free agayne and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e at this present <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eere.</p>
+            </div>
+            <div type="account">
+               <head>From Presburg 21. of August.</head>
+               <p>The <hi>16.17.</hi> and <hi>18.</hi> hereof hath the Enimie Puch his whole Camp in the fields by the Hagen within and without the wine mountaines against the Cittie / and taken in hand to shoote against this Cittie with there ordenauce / upon the <hi>19. 20.</hi> and <hi>21.</hi> hereof / for they lodged presently in the sub<g ref="char:EOLhyphen"/>burbs / and doe begin to fortifie themselves against the Cittie / here against these with in do not stand still / and have now; daies and night long without ceasing shote with there Canons out of the Cit<g ref="char:EOLhyphen"/>tie and Castle against / the Enimie doth the like a<g ref="char:EOLhyphen"/>gainst them of the Cittie and Castle so that on both sides many good souldiors are slaine / last night the Enimie hath brought <hi>4.</hi> peeces of ordnaunce to the Schandorper street / where withall he hath this morning gearly / Bartered the Bolwerk by S. Michells Gate very much with shooteing / but with out any danger / for the walles at the same place are not only very strong and fast / but also the outer dwengers wall hath yet received no hurt so that they will not so soone make any brech with there shooting / likewise when any hurt is done by them it is presently repaired and filled againe with greate labour / every on is lustie and resolved to defend them selves to there utter most in dea<g ref="char:EOLhyphen"/>vour / hopeing alsoo that the Emperours Maj. will not forfake us with provision and more assis<g ref="char:EOLhyphen"/>annce.</p>
+            </div>
+            <div type="account">
+               <head>From Idem 22. hereof.</head>
+               <p>The Enimie Ceaseth not daie nor night / he hath shott aboute som <hi>1500.</hi> shootes / and he dra<g ref="char:EOLhyphen"/>weth very neare to the steeple and Bolwarck by S. Michells Gate / and he shootes bulletts of <hi>15.18.20.</hi> and more pounds / there against those of the Cittie and Castle doe answere them lustyly / we are in good hope that the Enimie wil shortly be driven to forsake his enterprize / because we are comforted to day with the Emperours assistaunce against to morrow.</p>
+            </div>
+            <div type="account">
+               <head>From Prage, the 26. August.</head>
+               <p>The <hi>19</hi> here of in the morning aboute <hi>9</hi> a cloc<g ref="char:EOLhyphen"/>ke / the late iudge of Ellenbogen / one of Stols D. Fredrich of Bespert and Doct Luycke the which
+<pb facs="tcp:177428:2"/>besides other prisoners have lien heere in arrest / are in a open waggin with a convoy of horses carieo from hence to Burglits where they shall be kept prisoners henceforth till further resoluti<g ref="char:EOLhyphen"/>on from the Emperour / what shall be done with the other prisoners / time will reveale.</p>
+               <p>From Tabor comes newes that the besieged defend them selves yett manfully / yesterday co<g ref="char:EOLhyphen"/>mes news that Don Baltasars folke have lost another storm against the besieged / <hi>2.</hi> daies agone hath been sent from hence <hi>150000.</hi> of Gunpouder to our folk before Tabor the Generall Paradiser who hath been maimed before Tabor / is brought hiether to be cured of his wound / as before yis<g ref="char:EOLhyphen"/>terday the Bullet is cut out betweene his nose and eye / he reporteth that Tabor is not to be over com except by extraordinarie force and losse of many souldiors / and allthough our soldiors could get upon the walles / yett they with in have so fortified them selves so strongly / that it is almost impossible to com by them.</p>
+            </div>
+            <div type="account">
+               <head>From the Palts, 3 September.</head>
+               <p>The Palts-Graves souldiors are retired from Steyn / by reason of waters / and they are lodged amile from thence in the Bergstraet being <hi>5000.</hi> footemen / and the Horsemen lie at Hofheym a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d biblis / and they have a sentinelle to hold watch at Ste<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n / there is many slayne on both sides the Paltsgrave hath <hi>100.</hi> slayne and maimed / but the Emperours have loir many more amongst the rest were <hi>2.</hi> Spanish Captaynes which are much lamented on there side / and they are caried to alt<g ref="char:EOLhyphen"/>zey / the Palts-Graves souldiors did stand to the water and fight with the Spaniards who stood upon a dam and after a brest defence / and yet not with standing driuen the Spaniards out of there advantage and taken in the same by force / they did not only encounter on both sides with Mus<g ref="char:EOLhyphen"/>quetts but also with pikes.</p>
+               <p>Obertrouts Horsemen have sett upon som ser<g ref="char:EOLhyphen"/>tayne Spanish Horsemen over Rij as by Dost<g ref="char:EOLhyphen"/>hoven the which were gone out for fodder / and brought sertanne horses from the same.</p>
+               <p>It is thought that Overtrout is out this night with <hi>300.</hi> Horses uppon an Enterprize towards Oppenheym.</p>
+            </div>
+            <div type="account">
+               <head>From the Berghestrate 4. dito.</head>
+               <p>Two daies agone the Pals-Graves souldiors are retired back from steine / they coulde not plant any ordenaunce before the same / the Spaniards have the passe over the Rine / and there comes daily more folk over / they growe very strong and they have taken in Northeina and Wettenheym and taxed them to pay <hi>1000.</hi> Fl. but because the women and Children are fled out of the same the Spaniards have sert fire thereon / in the Bergh<g ref="char:EOLhyphen"/>strate lies greate store of souldiers in all the vil<g ref="char:EOLhyphen"/>ladges round abouts and there resorts dayly more unto them.</p>
+            </div>
+            <div type="account">
+               <head>From Amsterdam 18. September.</head>
+               <p>The letters from Lubec mention that the King of Suethland / doth hold the Sittie Riga in Inf<g ref="char:EOLhyphen"/>land yet strongly desidged both by water and by Land / and his souldiors doth labour hard about the same intending to sett upon them with all his might / because it is understand that the King of Poland is with all expedition seekinge to relieve and defend those of Riga.</p>
+               <p>We understand that the Sittie of Montaubon in Fraunce is yett besieged of the french King / and that he had taken the subberbs in / and was com under Sittie cannot stand our long / the King hath sent som part of folk to Rochell to burne downe al the milles there abouts and so in time besiedge them for to take a way al there defences and pri<g ref="char:EOLhyphen"/>villedges and so make them a pren for there eni<g ref="char:EOLhyphen"/>mies / who sought to bringe the Spanish help in to the land but those of Rochell are yet in good cou<g ref="char:EOLhyphen"/>rage / they gad on greate Gallion ready and they prepare more.</p>
+               <p>We understand that som sertayne Merchants ships of Holland coming from Ittalie and think<g ref="char:EOLhyphen"/>ing to passe thest ait of Gybralter and with the most part to goe to the Margaret in West-Inges to fetch sallt there came <hi>9.</hi> great Ships and say led Amongst them / first shooting with powder alone as if they did in tend no hurt / but beeing Amongst them they presently shot as Enimies att them the Hollanders sayled most of them present<g ref="char:EOLhyphen"/>ly / out of the fleet / and the remainders defended themselves valiantly / because the Spaniards had very greate ordinaunce and beeing to strong for the other / so that we here they have taken and sonck <hi>3</hi> Hollanders: now whether this shal be suffered / that the King of Spaine shall acknow<g ref="char:EOLhyphen"/>ledge us for free Lands and yett attempt as Eni<g ref="char:EOLhyphen"/>mies against our Merchants Ships with deceit / time will reveale.</p>
+               <p>The passages and waies which are serviceable to the Prince of Orenge are made ready through the Berger-dyke to Doesburghe / and we shall see now what the Enimie will take in hand / whose enterprise for this yeare is thought to be disa<g ref="char:EOLhyphen"/>poynted. The Prince of Orenge / with his expe<g ref="char:EOLhyphen"/>rienced Generalls / and Ingeniors / have beene above and about Rees / to view and espie all things / and given order to make those things / which are most needfull for them. Our Shipps of Warre are most sayled to the Sconse's Graven<g ref="char:EOLhyphen"/>weart / where there is made a faire Bridge over both streames. The Prince lies above Embrick by the old Rijne / betwixt Embrick and Rees over against Griet / where he hath first caused his Tent to be pitcht this weeke. The Soul diors lie ronnd aboute in the Dilladges in the Hetter / as at Dor<g ref="char:EOLhyphen"/>nick / Wellingen / Haften and Meeren.</p>
+               <p>At Rees are divers more new Comp a nies in quartered with in the Cittie and with out in the sconses. The Marcquis Spinola lies with his forces at Wesell / Burck / Santen / and Berck etc. and staieth for Grave Henderick vanden Berghe who is thought to be <hi>7000.</hi> strong and he hath over com the house at Raid aboute Gulick / there Captaine Dietvort lay with his companie so that it is Admired at that they gave it so soone over. His Maj. of Bohemie lies yett in Embrick / he doeth rides somtimes to the Prince but common<g ref="char:EOLhyphen"/>ly comes in to the Cittie agaiue the same night.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>AT AMSTERDAM Printed by George Veseler. The 18 of Septembre. 1621.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
